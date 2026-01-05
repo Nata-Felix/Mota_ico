@@ -1,0 +1,15 @@
+================================================================================
+IMAGEM: linkedin.png
+PASTA: .
+MIME TYPE: image/png
+================================================================================
+
+CÓDIGO COMPLETO PARA HTML (copie e cole no src):
+--------------------------------------------------------------------------------
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABWVBMVEUAAAASgLYSe7kUfLcRf7gRfrkQfrgRfbgRfrgRfrgRfrgRfrgRfrgRfrgRfrgSf7gVgLkWgbkXgboYgroZg7sag7sbhLsdhbwlib4mib4nir8pi78qjMAsjcAwj8Exj8EykMI3k8NCmMZCmcdJnMlLnclMnspNnspUosxVo8xXpM1Zpc1fqM9jq9BmrNFnrdJrr9NusdRzs9V0tNZ1tNZ3tdZ6t9eAutmBu9mDvNqFvduGvduHvtuJv9yLwNySxN6TxN+WxuCXx+CbyeGizOOkzeSmz+Wnz+Wq0eas0uav0+ew1Oey1ei01+m11+m62uq72uu82+u+3Oy/3OzC3u3E3+3G4O7I4e/K4u/L4+/O5PDP5fHQ5vHS5/LV6PLb6/Td7fXe7fXf7vbg7vbh7/bi7/bk8Pfo8vjq8/ns9fnu9vrx9/v1+fz3+vz4+/35/P37/f78/f7///94NYfpAAAADnRSTlMAHB0nqaqsr+zt7vDx8r0xoZ0AAAABYktHRHI2Dg1YAAABfElEQVRYw+3YV1MCMRQF4NBEERYECyqKYgcromIvYMXeFTuKHST//8F12SSgOI65eXCcnLd758z3stmd2SBkLHMowDisJoSMFYqA2IyoTBESC3KIgexIERQJSaggtX1Tk0E3HBp8xmpuu6DQMM4n2wmDfBkdwtdVIGgC03SDoASDoiBonUHjIGiaQSEQ1PxGnLQH9vjHdCfXAzxHzlHtADyE4K+IN7wwP1AnPyPfQ01+PY3a6CGj36lOrmDsOPV4c7I05P0RuiLn6FAbA/R8qseq/45O2Xg9N+RZw4W5D3BCNdu4OE8tfNAM/pwDPij3BcIdXFCJbIqCXtycUG5/MbaVKVi080E7vo9Nwx7bjHBBR658ozpFV3NcUBupROgqwQNd0oqf7nZ5oGX2EX0t7vwSmmWdNNmd8kDREp0zHijCOhcgKMw65xKSkIT+IbSR1BPXxlYyJntZZ5XsVuSvqIT+MCToIqoSWcVAZmSyiXDKDeq1n8UOvmAzG9A7z5u3oPp5eZMAAAAASUVORK5CYII=
+--------------------------------------------------------------------------------
+
+APENAS O BASE64 (sem data URI):
+--------------------------------------------------------------------------------
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABWVBMVEUAAAASgLYSe7kUfLcRf7gRfrkQfrgRfbgRfrgRfrgRfrgRfrgRfrgRfrgRfrgSf7gVgLkWgbkXgboYgroZg7sag7sbhLsdhbwlib4mib4nir8pi78qjMAsjcAwj8Exj8EykMI3k8NCmMZCmcdJnMlLnclMnspNnspUosxVo8xXpM1Zpc1fqM9jq9BmrNFnrdJrr9NusdRzs9V0tNZ1tNZ3tdZ6t9eAutmBu9mDvNqFvduGvduHvtuJv9yLwNySxN6TxN+WxuCXx+CbyeGizOOkzeSmz+Wnz+Wq0eas0uav0+ew1Oey1ei01+m11+m62uq72uu82+u+3Oy/3OzC3u3E3+3G4O7I4e/K4u/L4+/O5PDP5fHQ5vHS5/LV6PLb6/Td7fXe7fXf7vbg7vbh7/bi7/bk8Pfo8vjq8/ns9fnu9vrx9/v1+fz3+vz4+/35/P37/f78/f7///94NYfpAAAADnRSTlMAHB0nqaqsr+zt7vDx8r0xoZ0AAAABYktHRHI2Dg1YAAABfElEQVRYw+3YV1MCMRQF4NBEERYECyqKYgcromIvYMXeFTuKHST//8F12SSgOI65eXCcnLd758z3stmd2SBkLHMowDisJoSMFYqA2IyoTBESC3KIgexIERQJSaggtX1Tk0E3HBp8xmpuu6DQMM4n2wmDfBkdwtdVIGgC03SDoASDoiBonUHjIGiaQSEQ1PxGnLQH9vjHdCfXAzxHzlHtADyE4K+IN7wwP1AnPyPfQ01+PY3a6CGj36lOrmDsOPV4c7I05P0RuiLn6FAbA/R8qseq/45O2Xg9N+RZw4W5D3BCNdu4OE8tfNAM/pwDPij3BcIdXFCJbIqCXtycUG5/MbaVKVi080E7vo9Nwx7bjHBBR658ozpFV3NcUBupROgqwQNd0oqf7nZ5oGX2EX0t7vwSmmWdNNmd8kDREp0zHijCOhcgKMw65xKSkIT+IbSR1BPXxlYyJntZZ5XsVuSvqIT+MCToIqoSWcVAZmSyiXDKDeq1n8UOvmAzG9A7z5u3oPp5eZMAAAAASUVORK5CYII=
+--------------------------------------------------------------------------------

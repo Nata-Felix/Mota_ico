@@ -1,0 +1,106 @@
+================================================================================
+ÍNDICE DE CÓDIGOS BASE64 - ASSINATURA DE EMAIL
+================================================================================
+
+LOCALIZAÇÃO: etc/base64/
+TOTAL DE ARQUIVOS: 12
+
+================================================================================
+📸 FOTOS PROFISSIONAIS (1400x1400px)
+================================================================================
+
+1. fotos_profissionais_removed_bg_fa3c2825-3105-49ee-8e12-babbb5d54b45.txt
+   → Foto: Fabrício Mota
+   → Tamanho: 1.3 MB (base64)
+   → Uso: Assinatura Futura
+
+2. fotos_profissionais_removed_bg_1467ea1f-f03c-4178-9e96-6e81297b3144.txt
+   → Foto: Vitória
+   → Tamanho: 1.2 MB (base64)
+   → Uso: Assinatura Vitória
+
+================================================================================
+🏢 LOGOS DAS EMPRESAS (Upscalling)
+================================================================================
+
+3. logos_up_Mod_logo1.txt
+   → Logo: Moderna versão 1
+   → Tamanho: 403 KB (base64)
+
+4. logos_UP_Mod_logo2.txt
+   → Logo: Moderna versão 2
+   → Tamanho: 368 KB (base64)
+
+5. logos_up_Mod_logo3.txt
+   → Logo: Grupo Teixeira Mota (circular)
+   → Tamanho: 293 KB (base64)
+   → Uso: Assinatura Grupo Mota
+
+================================================================================
+🔵 ÍCONES (PNG/SVG)
+================================================================================
+
+6. icones_outlook (1).txt
+   → Ícone: Email/Outlook (versão 1)
+   → Tamanho: 42 KB (base64)
+   → Formato: PNG
+
+7. icones_outlook.txt
+   → Ícone: Email/Outlook (versão 2)
+   → Tamanho: 74 KB (base64)
+   → Formato: PNG
+
+8. icones_whatsapp.txt
+   → Ícone: WhatsApp
+   → Tamanho: 11 KB (base64)
+   → Formato: PNG
+
+9. icones_location.txt
+   → Ícone: Localização
+   → Tamanho: 2 KB (base64)
+   → Formato: SVG
+
+10. icones_instagram.txt
+    → Ícone: Instagram
+    → Tamanho: 26 KB (base64)
+    → Formato: PNG
+
+11. icones_linkedin.txt
+    → Ícone: LinkedIn
+    → Tamanho: 3 KB (base64)
+    → Formato: PNG
+
+================================================================================
+📋 COMO USAR
+================================================================================
+
+1. Abra o arquivo .txt correspondente à imagem desejada
+2. Copie a linha "CÓDIGO COMPLETO PARA HTML"
+3. Cole diretamente no atributo src="" da tag <img> no HTML
+
+EXEMPLO DE USO:
+--------------------------------------------------------------------------------
+<img src="data:image/png;base64,iVBORw0KG..." 
+     width="90" 
+     height="90" 
+     alt="Nome">
+
+================================================================================
+💡 DICAS
+================================================================================
+
+• Use "CÓDIGO COMPLETO" para substituição rápida no HTML
+• Use "APENAS O BASE64" se precisar apenas da string codificada
+• Arquivos maiores (fotos) = emails mais pesados
+• Ícones SVG são os menores e mais leves
+• Fotos profissionais já estão sem fundo (Remove BG)
+
+================================================================================
+🔄 ATUALIZAÇÃO
+================================================================================
+
+Para adicionar novas imagens ao repositório base64:
+1. Execute: python convert_images_to_base64.py
+2. Novas imagens serão automaticamente convertidas
+
+================================================================================

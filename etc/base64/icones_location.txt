@@ -1,0 +1,15 @@
+================================================================================
+IMAGEM: location.svg
+PASTA: .
+MIME TYPE: image/svg+xml
+================================================================================
+
+CÓDIGO COMPLETO PARA HTML (copie e cole no src):
+--------------------------------------------------------------------------------
+data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgaWQ9ImxvY2F0aW9uIj4NCiAgPHBhdGggZmlsbD0iI2UzZTJlMSIgZD0iTTU0LjAxIDU4Ljc0QzU0LjAxIDYxLjY1IDQ0LjE1IDY0IDMyIDY0Yy0xMi4xNSAwLTIyLjAxLTIuMzUtMjIuMDEtNS4yNiAwLTIuNiA3LjktNC43NCAxOC4yNi01LjE4aDcuNWMxMC4zNy40NCAxOC4yNiAyLjU4IDE4LjI2IDUuMTh6Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiNlODIzMjciIGQ9Ik0zMiAwQzIwLjcgMCAxMS41NCA5LjE1IDExLjU0IDIwLjQ1IDExLjU0IDMxLjc1IDMyIDU4Ljc0IDMyIDU4Ljc0czIwLjQ1LTI2Ljk5IDIwLjQ1LTM4LjI5UzQzLjMgMCAzMiAwem0wIDMzLjk5Yy03LjQ4IDAtMTMuNTQtNi4wNi0xMy41NC0xMy41NFMyNC41MiA2LjkxIDMyIDYuOTFjNy40OCAwIDEzLjU0IDYuMDYgMTMuNTQgMTMuNTRTMzkuNDggMzMuOTkgMzIgMzMuOTl6Ij48L3BhdGg+DQo8L3N2Zz4NCg==
+--------------------------------------------------------------------------------
+
+APENAS O BASE64 (sem data URI):
+--------------------------------------------------------------------------------
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgaWQ9ImxvY2F0aW9uIj4NCiAgPHBhdGggZmlsbD0iI2UzZTJlMSIgZD0iTTU0LjAxIDU4Ljc0QzU0LjAxIDYxLjY1IDQ0LjE1IDY0IDMyIDY0Yy0xMi4xNSAwLTIyLjAxLTIuMzUtMjIuMDEtNS4yNiAwLTIuNiA3LjktNC43NCAxOC4yNi01LjE4aDcuNWMxMC4zNy40NCAxOC4yNiAyLjU4IDE4LjI2IDUuMTh6Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiNlODIzMjciIGQ9Ik0zMiAwQzIwLjcgMCAxMS41NCA5LjE1IDExLjU0IDIwLjQ1IDExLjU0IDMxLjc1IDMyIDU4Ljc0IDMyIDU4Ljc0czIwLjQ1LTI2Ljk5IDIwLjQ1LTM4LjI5UzQzLjMgMCAzMiAwem0wIDMzLjk5Yy03LjQ4IDAtMTMuNTQtNi4wNi0xMy41NC0xMy41NFMyNC41MiA2LjkxIDMyIDYuOTFjNy40OCAwIDEzLjU0IDYuMDYgMTMuNTQgMTMuNTRTMzkuNDggMzMuOTkgMzIgMzMuOTl6Ij48L3BhdGg+DQo8L3N2Zz4NCg==
+--------------------------------------------------------------------------------
