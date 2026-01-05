@@ -1,4 +1,4 @@
-# 📧 Mota Email Signatures
+# 📧 Assinatura email
 
 Este é um projeto simples de **freelance** focado no desenvolvimento e padronização de assinaturas de e-mail corporativas. O objetivo principal foi criar modelos profissionais, compatíveis com diversos clientes de e-mail (especialmente Outlook) e explorar automações com Python.
 
